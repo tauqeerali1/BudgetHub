@@ -1,0 +1,9 @@
+#root, body, html {
+    height: 100%;
+    margin: 0;
+}
+
+body{
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0,0.3)), url(https://www.pixel4k.com/wp-content/uploads/2018/03/LG%20Android%20Stock219476566.jpg);
+    background-size: cover;
+}
