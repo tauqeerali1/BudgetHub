@@ -10,4 +10,4 @@ Income and Expence Tracker - Budget Hub
 3) Application track your income, expence, total balance and show graphs automatically. 
 4) Add voice capabilities applications using Speechly.
 5) Add, delete and categorize all your incomes/expenses with your voice and track your budget at ease.
-6) Local Storage and integreated google-pay button.
+6) Integreated google-pay button with Local Storage to save data
