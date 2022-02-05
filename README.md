@@ -7,6 +7,6 @@ npm install @google-pay/button-react
 Income and Expence Tracker - Budget Hub
 
 1) Create Voice Powered Budget Tracker using React App.
-3) Application track your income, expence, total balance and show graphs automatically. 
-4) Add voice capabilities applications using Speechly and Integreated google-pay button with Local Storage to save data
+3) It tracks income, expence, total balance and also show graphs of them.
+4) Added voice capabilities in this applications using Speechly and Integreated google-pay payment gateway button with Local Storage to save data
 5) Add, delete and categorize all your incomes/expenses with your voice and track your budget at ease.
