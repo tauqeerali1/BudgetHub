@@ -8,7 +8,7 @@ Income and Expence Tracker - Budget Hub
 
 1) Create Voice Powered Expence Tracker using React App
 2) Add voice capabilities applications using Speechly.
-3) Application track your income expence ,balance and shows graph automatically. 
+3) Application track your income expence ,balance and show graphs automatically. 
 4) Add, delete and categorize all your incomes/expenses with your voice and track your budget at ease.
-5) Budget Tracker | Context API, Local Storage, Speechly
+5) Budget Tracker | Context API, Local Storage
 6) google-pay button integreated.
